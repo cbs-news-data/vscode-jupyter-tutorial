@@ -40,7 +40,7 @@ In the terminal, run the following command to create a new Poetry project:
 poetry init
 ```
 
-Follow the instructions to create your `pyproject.toml` file. When prompted to choose your dev dependencies, install the `jupyter` package. 
+Follow the instructions to create your `pyproject.toml` file. When prompted to choose your dev dependencies, install the `jupyter` package. See my example [Poetry init logs](./poetry-init-logs.md) for an example of the output from running `poetry init`, and take a look at the [`pyproject.toml`](../pyproject.toml) file in this directory for an example of what the file should look like.
 
 ### 2.1 (Optional) Install linting and formatting tools
 
