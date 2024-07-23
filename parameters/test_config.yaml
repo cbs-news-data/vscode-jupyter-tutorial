@@ -1,0 +1,8 @@
+AGGREGATIONS:
+  - mean
+  - median
+  - sum
+  - count
+  - min
+  - max
+  - std
