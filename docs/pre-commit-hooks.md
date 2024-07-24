@@ -25,7 +25,7 @@ Once you've installed pre-commit, you can set up a pre-commit hook to check your
 ```yaml
 repos:
 -   repo: https://github.com/christopher-hacker/enforce-notebook-run-order
-    rev: 1.7.0
+    rev: 2.0.0
     hooks:
     -   id: enforce-notebook-run-order
 ```
