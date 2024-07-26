@@ -1,5 +1,7 @@
 # Get the most of your Jupyter notebooks in VS Code
 
+This repository contains a collection of tips and tools to get the most of your Jupyter notebooks in Visual Studio Code. 
+
 ## Table of contents
 
 - [Running notebooks in VS Code](docs/notebooks-in-vscode.md)
